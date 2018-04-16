@@ -1,4 +1,4 @@
-# pldt-dsl-admin-login
+# pldt dsl admin login
 login to pldt dsl admin as of 04/2018 -- works on prolink
 
 1. login to 192.168.1.1
